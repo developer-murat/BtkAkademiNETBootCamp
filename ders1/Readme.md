@@ -5,10 +5,12 @@
 ## npm
 
 > npm init
-Node Package Managemet için package.json dosyaıs oluşturur.
+Node Package Managemet için package.json dosyası oluşturur.
+
 >script
 
 start (npm start)
+
 server (npm run server)
 
 ## git
