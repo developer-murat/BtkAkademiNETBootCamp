@@ -7,8 +7,9 @@
 > npm init
 Node Package Managemet için package.json dosyaıs oluşturur.
 >script
-.start (npm start)
-.server (npm run server)
+
+start (npm start)
+server (npm run server)
 
 ## git
 
