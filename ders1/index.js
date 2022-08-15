@@ -11,7 +11,7 @@ document.getElementById("root").innerHTML = 'Merhaba';
     console.log(i);
     i = i +1;
 }*/
-const arr =["Ahmet","Mehmet","Can","Ela","Sude"]*/
+/*const arr =["Ahmet","Mehmet","Can","Ela","Sude"]*/
 const arr =[
     {
         id:1,
@@ -26,11 +26,11 @@ const arr =[
     {
         id:3,
         name:"Ömer Dağ",
-        age:20,
+        age:22,
     }
 ]
 for(let person of arr){
     const element = document.createElement("div");
     element.innerHTML=`${person.id} ${person.name} ${person.age}`;
-    document.getElementById("root").append.apply(element);
+    document.getElementById("root").append(element);
 }
