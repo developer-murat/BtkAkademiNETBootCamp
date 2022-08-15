@@ -29,4 +29,6 @@ server (npm run server)
 
 >git branch -d "branchname"
 
->git pusb origin -d "branchname"
+>git push origin -d "branchname"
+
+>git commit file name "description"
